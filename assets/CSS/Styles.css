@@ -1,0 +1,13 @@
+.body
+{
+    margin:0;
+    padding:0;
+}
+
+.bt
+{
+    width: 80px;
+    height: 40px;   
+    justify-content: center;
+    align-content: center
+}
